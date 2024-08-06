@@ -11,7 +11,7 @@ import { People } from './components/People'
 function App() {
 
   return (
-    <div>
+    <div className=''>
       
       <Navigation/>
 
