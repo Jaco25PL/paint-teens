@@ -18,7 +18,9 @@ export function Navigation () {
             </div>
 
             <div>
-                <div className="bg-red-500 w-fit px-3 py-2 rounded-md font-bold text-white">094 123 456</div>
+                <div className="bg-red-500 w-fit px-3 py-2 rounded-md font-bold text-white">
+                    <div>094 123 456</div>
+                </div>
             </div>
             
         </div>
