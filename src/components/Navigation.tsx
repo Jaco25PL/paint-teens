@@ -2,7 +2,7 @@
 export function Navigation () {
 
     return (
-        <div className="bg-green-400 px-32 py-5 flex justify-between items-center">
+        <div className="sticky top-0 z-50 bg-gray-200 backdrop-blur-sm bg-opacity-50 px-32 py-5 flex justify-between items-center">
 
             <div>
                 <img className="w-52" src="./logo.png" alt="paint-teens logo" />

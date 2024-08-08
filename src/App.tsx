@@ -11,7 +11,7 @@ import { People } from './components/People'
 function App() {
 
   return (
-    <div className='bg-gray-100 min-h-screen'>
+    <div className='bg-gray-100 min-h-screen max-w-full'>
       
       <Navigation/>
 
